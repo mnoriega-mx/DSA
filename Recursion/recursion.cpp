@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-    cout << "Recursion" << endl;
+    cout << "Recursion Test" << endl;
 }
