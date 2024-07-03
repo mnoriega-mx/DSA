@@ -7,6 +7,7 @@ int fun(int x) {
         cout << x << endl;
         fun(x-1);
     }
+    
     return 0;
 }
 
@@ -15,6 +16,7 @@ int fun2(int x) {
         fun2(x-1);
         cout << x << endl;
     }
+
     return 0;
 }
 
